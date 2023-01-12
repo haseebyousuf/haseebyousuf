@@ -1,8 +1,13 @@
+
 # 💫 About Me:
 🔭 I’m currently working on Wave Music App<br><br>🌱 I’m currently learning MERN stack (MongoDB, Express, React, Node.js)<br><br>❓ Ask me about anything related to MERN stack. <br><br>⚡ Fun fact: I use tabs over spaces
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## 🌐 Socials:
+# 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseebyousuff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseebyousuf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haseebyousuf) 
 
 # 💻 Tech Stack:
