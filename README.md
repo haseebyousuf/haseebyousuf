@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Wave Music App<br><br>🌱 I’m currently learning MERN stack (MongoDB, Express, React, Node.js)<br><br>❓ Ask me about anything related to MERN stack. <br><br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m currently working on Youtube Clone App<br><br>🌱 I’m currently learning React JS <br><br>❓ Ask me about anything related to React. <br><br>⚡ Fun fact: I use tabs over spaces
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
