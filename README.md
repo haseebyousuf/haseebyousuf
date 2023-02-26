@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Youtube Clone App<br><br>🌱 I’m currently learning React JS <br><br>❓ Ask me about anything related to React. <br><br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m a Full-Stack Web Developer Enthusiast<br><br>🌱 I’m currently learning React JS <br><br>⚡ Fun fact: I use tabs over spaces
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
