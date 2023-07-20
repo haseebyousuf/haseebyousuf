@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">✨ I’m a Full-Stack Web Developer Enthusiast<br>📚  I’m currently learning MERN Stack<br>🎯 Goals: Full-Stack Developer</p>
+<h4 align="center">✨ I’m a Full-Stack Web Developer Enthusiast<br>📚  I’m currently learning MERN Stack<br>🎯 Goals: Full-Stack Developer</h4>
 
 ###
 
