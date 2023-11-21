@@ -31,9 +31,9 @@
 
 ###
 <div align="center">
-<!--   <a href="https://skillicons.dev"> -->
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,docker,mongodb,materialui,tailwind" />
-<!--   </a> -->
+  </a>
 </div>
 
 ###
