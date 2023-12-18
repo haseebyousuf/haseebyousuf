@@ -23,6 +23,10 @@
   <a href="https://twitter.com/haseebyousuf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://haseebs.tech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=4188b3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  
 </div>
 
 ###
